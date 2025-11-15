@@ -1,0 +1,8 @@
+Maths internal test topic
+
+1.Newton forward interpolation
+2.Newton backward interpolation
+3.interpolation with unequal intervals, Lagranges interpolation
+4.Newton divided difference
+5.Numerical differentiation integration, forward difference, backward difference
+6.Newmerical integration, Newtons cotes quadrature, Trapezoidal rule, Simpsons one third rule, Simpsons three eight rule
